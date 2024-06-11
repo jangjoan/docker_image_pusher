@@ -1,4 +1,5 @@
-nginx
-kasmweb/nginx:1.25.3
+whyour/qinglong:latest
 xhofe/alist:latest
---platform=linux/arm64 xiaoyaliu/alist
+jellyfin/jellyfin:laetst
+a76yyyy/qiandao:latest
+nevinee/qbittorrent:latest
