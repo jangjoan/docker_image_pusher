@@ -3,3 +3,4 @@ xhofe/alist:latest
 jellyfin/jellyfin:laetst
 a76yyyy/qiandao:latest
 nevinee/qbittorrent:latest
+linzeyi/hivision_idphotos:latest
